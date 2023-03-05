@@ -1,1 +1,1 @@
-my second readme
+Samuel Oma
